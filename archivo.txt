@@ -1,0 +1,3 @@
+ganador primer puesto: p
+ganador segundo puesto: t
+ganador tercer puesto: s
